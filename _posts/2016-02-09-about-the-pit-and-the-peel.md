@@ -16,8 +16,8 @@ keywords:
   - pit
   - '804'
 description: 'WHAT WE BELIEVE Decisions...Decisions... We all have to make them each and every day and all too often they come with compromise, especially when choosing what to fill up on. At the Pit and the Peel right from the start we made the decision to do things a little different.'
-datePublished: '2016-02-09T01:20:34.117Z'
-dateModified: '2016-02-09T01:18:37.012Z'
+datePublished: '2016-02-09T01:22:21.222Z'
+dateModified: '2016-02-09T01:22:17.439Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>ABOUT - The Pit and the Peel</h1><p>WHAT WE BELIEVE Decisions&amp;period;&amp;period;&amp;period;Decisions&amp;period;&amp;period;&amp;period; We all have to make them each and every day and all too often they come with compromise&amp;comma; especially when choosing what to fill up on&amp;period; At the Pit and the Peel right from the start we made the decision to do things a little different&amp;period;</p><img src="https://modernthemes.net/clients/pitandpeel/wp-content/uploads/2016/02/PP-Logo-Color.png" /></article>
+<article style=""><h1>ABOUT - The Pit and the Peel</h1><p>WHAT WE BELIEVE Decisions...Decisions... We all have to make them each and every day and all too often they come with compromise, especially when choosing what to fill up on. At the Pit and the Peel right from the start we made the decision to do things a little different.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fba1810e21e46a589940b4152827ca0e6eb5faee.png" /></article>
