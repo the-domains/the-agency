@@ -4,8 +4,15 @@
         <description><![CDATA[The Agency]]></description>
         <link>https://thegrid.ai/the-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 01:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 01:32:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-agency/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/ETYiwRq.jpg">]]></description>
+            <link>http://imgur.com/gallery/biCO4</link>
+            <guid isPermaLink="false">22a1a81c-bc8c-481f-8bdc-5e0e8fdf15be</guid>
+            <pubDate>Tue, 09 Feb 2016 01:31:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://i.imgur.com/wtbGeMg.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/the-agency/1c536e61-7e53-4ca3-b2c7-d039aa493738/index.html</link>
             <guid isPermaLink="false">1c536e61-7e53-4ca3-b2c7-d039aa493738</guid>
             <pubDate>Tue, 09 Feb 2016 01:28:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.imgur.com/ETYiwRq.jpg">]]></description>
-            <link>https://thegrid.ai/the-agency/22a1a81c-bc8c-481f-8bdc-5e0e8fdf15be/index.html</link>
-            <guid isPermaLink="false">22a1a81c-bc8c-481f-8bdc-5e0e8fdf15be</guid>
-            <pubDate>Tue, 09 Feb 2016 01:28:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
