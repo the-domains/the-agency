@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://modernthemes.net'
-  name: The Pit and the Peel
-  favicon: 'https://modernthemes.net/clients/pitandpeel/wp-content/uploads/2016/02/cropped-PP-Favicon-192x192.png'
-  domain: modernthemes.net
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - peel
   - decision
@@ -18,17 +16,21 @@ keywords:
   - pit
   - '804'
 description: 'WHAT WE BELIEVE Decisions...Decisions... We all have to make them each and every day and all too often they come with compromise, especially when choosing what to fill up on. At the Pit and the Peel right from the start we made the decision to do things a little different.'
-inLanguage: en
+datePublished: '2016-02-09T01:20:34.117Z'
+dateModified: '2016-02-09T01:18:37.012Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://modernthemes.net/clients/pitandpeel/about/'
 title: ABOUT - The Pit and the Peel
-datePublished: '2016-02-09T01:14:27.451Z'
-dateModified: '2016-02-09T01:13:35.084Z'
 sourcePath: _posts/2016-02-09-about-the-pit-and-the-peel.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: The Pit and the Peel
+  domain: modernthemes.net
+  url: 'https://modernthemes.net'
+  favicon: 'https://modernthemes.net/clients/pitandpeel/wp-content/uploads/2016/02/cropped-PP-Favicon-192x192.png'
+url: about-the-pit-and-the-peel/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
