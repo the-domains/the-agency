@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Agency]]></title>
         <description><![CDATA[The Agency]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 01:09:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 01:10:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-agency/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dbbc435-f456-44ab-b12e-b12a16b0f1c9.JPG">]]></description>
-            <link>undefinedec245fd1-f142-46d6-9591-bc42da58bef1/index.html</link>
+            <link>https://thegrid.ai/the-agency/ec245fd1-f142-46d6-9591-bc42da58bef1/index.html</link>
             <guid isPermaLink="false">ec245fd1-f142-46d6-9591-bc42da58bef1</guid>
-            <pubDate>Tue, 09 Feb 2016 01:09:18 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 01:09:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
