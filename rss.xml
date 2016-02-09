@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Agency]]></title>
         <description><![CDATA[The Agency]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-agency/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 01:14:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 01:14:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-agency/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABOUT - The Pit and the Peel]]></title>
+            <description><![CDATA[<article><h1>ABOUT - The Pit and the Peel</h1><p>WHAT WE BELIEVE Decisions...Decisions... We all have to make them each and every day and all too often they come with compromise, especially when choosing what to fill up on. At the Pit and the Peel right from the start we made the decision to do things a little different.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/261f12f072b799fa9571276be0d6a66654fc3a14.png"></article>]]></description>
+            <link>https://modernthemes.net/clients/pitandpeel/about/</link>
+            <guid isPermaLink="false">496bf913-2c5b-488e-a594-9d20b82ba83a</guid>
+            <pubDate>Tue, 09 Feb 2016 01:14:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MENU - The Pit and the Peel]]></title>
             <description><![CDATA[<article><h1>MENU - The Pit and the Peel</h1><p>NEW MENU COMING SOON!!! TO WAKE YOU UP TO START YOU OFFTO FILL YOU UP TO REFRESH, REVITALIZE & REENERGIZE</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/261f12f072b799fa9571276be0d6a66654fc3a14.png"></article>]]></description>
