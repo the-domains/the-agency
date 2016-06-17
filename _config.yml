@@ -1,11 +1,7 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: The Agency
+favicon: null
+layout_spectrum: 0.6684588
+typography_spectrum: 0.5573477
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.421147
-  brandStrength: 0.765233
-  lightness: 0.8566308
   brandColors:
     - '#AA644B'
     - '#EAE4E4'
     - '#CC8A70'
     - '#1F1E20'
     - '#E0B492'
-  rhythmicContrast: 0.2222222
-typography_spectrum: 0.5573477
-layout_spectrum: 0.6684588
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: The Agency
+  brandStrength: 0.765233
+  lightness: 0.8566308
+  saturation: 0.421147
+  rhythmicContrast: 0.5
+purpose: []
